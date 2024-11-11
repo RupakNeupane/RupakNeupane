@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and AI enthusi
 
 ## 🚀 About Me
 - 🎓 **Skills**: Cloud Computing, Artificial Intelligence, Generative AI, Python
-- 📫 **Reach me at**: [neupanerupak123@gmail.com](mailto:neupanerupak07@gmail.com)
+- 📫 **Reach me at**: [neupanerupak7@gmail.com](mailto:neupanerupak7@gmail.com)
 
 ## 💻 Projects
 Here are some of the projects I’ve worked on. Feel free to explore and contribute:
