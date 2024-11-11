@@ -22,7 +22,7 @@ Here are some of the projects I’ve worked on. Feel free to explore and contrib
 ## 📫 Let's Connect
 - **GitHub**: [RupakNeupane](https://github.com/RupakNeupane)
 - **LinkedIn**: [Rupak Neupane](https://www.linkedin.com/in/rupakneupane007/)
-- **Email**: [neupanerupak123@gmail.com](mailto:neupanerupak07@gmail.com)
+- **Email**: [neupanerupak7@gmail.com](mailto:neupanerupak7@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate on any projects.
 
